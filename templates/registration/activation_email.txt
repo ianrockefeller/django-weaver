@@ -1,0 +1,2 @@
+Here's your activation email. Good luck!
+{{site}}/avatar/activate/{{activation_key}}/
